@@ -1,6 +1,6 @@
 # Awesome-Warranty-Management
 
-# Top Warranty Management Tools Ecosystem
+## Top Warranty Management Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Product Protection Plans, Warranty Registration, Claims Processing, RMA & Post-Purchase Experience*
 **Last updated: August 2026**
