@@ -20,35 +20,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Clyde](https://www.joinclyde.com/)**  
-  Ownership enrichment and product protection platform that embeds extended warranties and accident coverage into checkout, with registration and end-to-end claims handling for merchants.
 
-- **[Extend](https://www.extend.com/)**  
-  Modern product and shipping protection platform for e-commerce, offering embedded plans, fast claims resolution, and post-purchase customer experience tools.
-
-- **[Mulberry](https://www.getmulberry.com/)**  
-  Product protection platform that helps brands embed differentiated coverage offers to increase conversion, AOV, and customer retention.
-
-- **[Centriq](https://www.centriq.com/)**  
-  Home and appliance warranty management solution focused on product manuals, support, and simplified ownership experiences for consumers and partners.
-
-- **[Upsie](https://www.upsie.com/)**  
-  Consumer-facing extended warranty and protection plan provider with digital registration and claims tools, often integrated with retailers.
-
-- **[SureBright](https://www.surebright.com/)**  
-  Brand-owned protection plan platform enabling merchants to sell and manage their own warranty/protection offerings with registration and claims support.
-
-- **[ProtectAll](https://www.protectall.com/)**  
-  Protection plan and warranty solutions provider serving retailers and manufacturers with coverage programs and claims administration.
-
-- **[Consumer Priority Service (CPS)](https://www.cpscentral.com/)**  
-  Dealer-focused warranty and protection plan alternative emphasizing flexible onboarding, pricing control, and service network support for e-commerce retailers.
-
-- **[WarrCloud](https://www.warrcloud.com/)**  
-  Cloud-based warranty management system for registration, claims processing, and analytics geared toward manufacturers and service organizations.
-
-- **[Warranty Master](https://www.warrantymaster.com/)**  
-  Warranty administration and claims management software supporting product registration, entitlement checks, and service workflows.
+| Product | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Clyde](https://www.joinclyde.com/)** | Ownership enrichment and product protection platform that embeds extended warranties and accident coverage into checkout, with registration and end-to-end claims handling for merchants. | $0/mo + Rev Share | 0 Days |
+| **[Extend](https://www.extend.com/)** | Modern product and shipping protection platform for e-commerce, offering embedded plans, fast claims resolution, and post-purchase customer experience tools. | $0/mo + Rev Share | 0 Days |
+| **[Mulberry](https://www.getmulberry.com/)** | Product protection platform that helps brands embed differentiated coverage offers to increase conversion, AOV, and customer retention. | $9.99/mo | 60 Days |
+| **[Centriq](https://www.centriq.com/)** | Home and appliance warranty management solution focused on product manuals, support, and simplified ownership experiences for consumers and partners. | $18.00/yr | 0 Days |
+| **[Upsie](https://www.upsie.com/)** | Consumer-facing extended warranty and protection plan provider with digital registration and claims tools, often integrated with retailers. | $7.99/mo | 0 Days |
+| **[SureBright](https://www.surebright.com/)** | Brand-owned protection plan platform enabling merchants to sell and manage their own warranty/protection offerings with registration and claims support. | $0/mo + Rev Share | 0 Days |
+| **[ProtectAll](https://www.protectall.com/)** | Protection plan and warranty solutions provider serving retailers and manufacturers with coverage programs and claims administration. | $0/mo + Rev Share | 0 Days |
+| **[Consumer Priority Service (CPS)](https://www.cpscentral.com/)** | Dealer-focused warranty and protection plan alternative emphasizing flexible onboarding, pricing control, and service network support for e-commerce retailers. | $0/mo + Rev Share | 0 Days |
+| **[WarrCloud](https://www.warrcloud.com/)** | Cloud-based warranty management system for registration, claims processing, and analytics geared toward manufacturers and service organizations. | 1.5% / claim paid | 0 Days |
+| **[Warranty Master](https://www.warrantymaster.com/)** | Warranty administration and claims management software supporting product registration, entitlement checks, and service workflows. | $125.00/mo | 1 Client |
 
 ## Open-Source GitHub Projects
 - **[Warracker](https://github.com/sassanix/warracker)**  
